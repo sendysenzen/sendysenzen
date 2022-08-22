@@ -18,17 +18,26 @@ SQL 8 weeks challenge
 
 [4. Data Bank](https://github.com/sendysenzen/Data-Bank)
 
-[5. Danys Diner](https://github.com/sendysenzen/Data-mart)
+[5. Data Mart](https://github.com/sendysenzen/Data-mart)
 
-[6. Danys Diner](https://github.com/sendysenzen/Clique-Bait)
+[6. Clique Bait](https://github.com/sendysenzen/Clique-Bait)
 
-[7. Danys Diner] 
+[7. Balanced Tree Clothing](https://github.com/sendysenzen/balanced_tree_clothing)
 
-[8. Danys Diner] 
+[8. Fresh Segments](https://github.com/sendysenzen/fresh_segments)
 
 ## Business Intelligence
 ### Power BI
 
+[1. Seven Sages Brewing Company](https://github.com/sendysenzen/Seven-Sages-Brewing-Company)
+
+[2. Waggle](https://github.com/sendysenzen/Waggle-Power-BI-Report)
+
+[3. Market Price Analysis (National Clothing Chain](https://github.com/sendysenzen/Market-Analysis-Report-PBI) 
+
+[4. Romanian Gasoline Price](https://github.com/sendysenzen/Gasoline-Price-In-Romania-Viz)
+
+[5. Maven Space Challenge](https://github.com/sendysenzen/Space-missions-BI) 
 
 
 
