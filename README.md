@@ -10,33 +10,22 @@ My linkedin profile is [Sendy Setiawan'](https://www.linkedin.com/in/sendy-setia
 
 SQL 8 weeks challenge 
 
-[1. Danys Diner](https://github.com/sendysenzen/Dannys-Diner)
-
-[2. Pizza Runner](https://github.com/sendysenzen/Pizza-Runner)
-
-[3. Foodie Fi](https://github.com/sendysenzen/Foodie-Fi)
-
-[4. Data Bank](https://github.com/sendysenzen/Data-Bank)
-
-[5. Data Mart](https://github.com/sendysenzen/Data-mart)
-
-[6. Clique Bait](https://github.com/sendysenzen/Clique-Bait)
-
-[7. Balanced Tree Clothing](https://github.com/sendysenzen/balanced_tree_clothing)
-
-[8. Fresh Segments](https://github.com/sendysenzen/fresh_segments)
+[1. Danys Diner](https://github.com/sendysenzen/Dannys-Diner) || 
+[2. Pizza Runner](https://github.com/sendysenzen/Pizza-Runner) || 
+[3. Foodie Fi](https://github.com/sendysenzen/Foodie-Fi) || 
+[4. Data Bank](https://github.com/sendysenzen/Data-Bank) || 
+[5. Data Mart](https://github.com/sendysenzen/Data-mart) || 
+[6. Clique Bait](https://github.com/sendysenzen/Clique-Bait) || 
+[7. Balanced Tree Clothing](https://github.com/sendysenzen/balanced_tree_clothing) || 
+[8. Fresh Segments](https://github.com/sendysenzen/fresh_segments) 
 
 ## Business Intelligence
 ### Power BI
 
-[1. Seven Sages Brewing Company](https://github.com/sendysenzen/Seven-Sages-Brewing-Company)
-
-[2. Waggle](https://github.com/sendysenzen/Waggle-Power-BI-Report)
-
-[3. Market Price Analysis (National Clothing Chain](https://github.com/sendysenzen/Market-Analysis-Report-PBI) 
-
-[4. Romanian Gasoline Price](https://github.com/sendysenzen/Gasoline-Price-In-Romania-Viz)
-
+[1. Seven Sages Brewing Company](https://github.com/sendysenzen/Seven-Sages-Brewing-Company) || 
+[2. Waggle](https://github.com/sendysenzen/Waggle-Power-BI-Report) || 
+[3. Market Price Analysis (National Clothing Chain](https://github.com/sendysenzen/Market-Analysis-Report-PBI) || 
+[4. Romanian Gasoline Price](https://github.com/sendysenzen/Gasoline-Price-In-Romania-Viz) || 
 [5. Maven Space Challenge](https://github.com/sendysenzen/Space-missions-BI) 
 
 
